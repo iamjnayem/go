@@ -1,1 +1,24 @@
 Go lang syntax. 
+
+
+first day insights:(29/04/2025)
+==========================================
+#history
+#type system
+#type embed
+#interface & struct
+#implementing interface
+#duck typing
+#embed other type in struct
+#data types
+#import system and error for unused import
+#forcing to handling error
+#error type 
+#more than one returning value from a function
+#checking embed and interface implemenation at compile time
+=================================================
+
+
+
+
+
