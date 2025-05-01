@@ -1,7 +1,7 @@
 Go lang syntax. 
 
 
-first day insights:(29/04/2025)
+1st day insights:(29/04/2025)
 ==========================================
 #history
 #type system
@@ -16,10 +16,36 @@ first day insights:(29/04/2025)
 #error type 
 #more than one returning value from a function
 #checking embed and interface implemenation at compile time
-#testing goroutine
 =================================================
 
-
-
+2nd day insights: (30/04/2025 - 01/05/2025)
+=======================================================
+append operation
+array details
+capacity of slice
+using defer to close a resource
+how closure works
+complex data type
+writing condition including switch case 
+constant and typical variable declarion difference
+how copy works in slice
+copy array by reference
+delete of slice
+float arithmetic with type conversion
+iota in constants
+finding length
+use case of make function
+multiple value return from a function
+new function to allocate memory
+panic function
+pointer receviver of a function 
+promoted method & properties
+compositon of othere type in struct
+reflect operation in runtime
+struct details with nesting & accessing & pointer of structure
+uintptr 
+var 
+variable number of paramters of a function
+===========================================================
 
 
