@@ -16,6 +16,7 @@ first day insights:(29/04/2025)
 #error type 
 #more than one returning value from a function
 #checking embed and interface implemenation at compile time
+#testing goroutine
 =================================================
 
 
